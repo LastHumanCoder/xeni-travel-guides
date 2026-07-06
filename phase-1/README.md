@@ -8,8 +8,8 @@ Live preview: https://lasthumancoder.github.io/xeni-travel-guides/phase-1/
 |---|---|---|---|---|--:|--:|---|
 | 1 | How to Become a Travel Agent With No Experience | `how-to-become-a-travel-agent.html` | `https://www.xeni.com/how-to-become-a-travel-agent` | how to become a travel agent | 18100 | 33 | photo |
 | 2 | How Much Do Travel Agents Make? (2026 Data) | `how-much-do-travel-agents-make.html` | `https://www.xeni.com/how-much-do-travel-agents-make` | how much do travel agents make | 2900 | 26 | photo |
-| 3 | Disney Travel Agent Training & Certification (2026) | `disney-travel-agent-training-and-certification.html` | `https://www.xeni.com/disney-travel-agent-training-and-certification` | disney travel agent training | 260 | 14 | chart |
-| 4 | Travel Agent Commission Rates by Supplier (2026) | `travel-agent-commission-rates.html` | `https://www.xeni.com/travel-agent-commission-rates` | travel agent commission rates | 50 | 12 | chart |
+| 3 | Disney Travel Agent Training & Certification (2026) | `disney-travel-agent-training-and-certification.html` | `https://www.xeni.com/disney-travel-agent-training-and-certification` | disney travel agent training | 260 | 14 | photo |
+| 4 | Travel Agent Commission Rates by Supplier (2026) | `travel-agent-commission-rates.html` | `https://www.xeni.com/travel-agent-commission-rates` | travel agent commission rates | 50 | 12 | photo |
 | 5 | How to Become a Travel Agent From Home (2026) | `how-to-become-a-travel-agent-from-home.html` | `https://www.xeni.com/how-to-become-a-travel-agent-from-home` | how to become a travel agent from home | 1000 | 24 | photo |
 | 6 | How to Start a Travel Agency (2026 Step-by-Step) | `how-to-start-a-travel-agency.html` | `https://www.xeni.com/how-to-start-a-travel-agency` | how to start a travel agency | 720 | 16 | photo |
 | 7 | How to Become a Travel Agent in Florida (2026) | `how-to-become-a-travel-agent-in-florida.html` | `https://www.xeni.com/how-to-become-a-travel-agent-in-florida` | how to become a travel agent in florida | 590 | 7 | photo |
