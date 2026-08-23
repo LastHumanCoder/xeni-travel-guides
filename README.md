@@ -10,7 +10,7 @@
 | Phase | Theme | Blogs | Slug sheet | Preview |
 |---|---|--:|---|---|
 | Phase 1 | Foundations (already sent) | 15 | [README](phase-1/README.md) | [open](https://lasthumancoder.github.io/xeni-travel-guides/phase-1/) |
-| Phase 2 | Niches & Local | 15 | [README](phase-2/README.md) | [open](https://lasthumancoder.github.io/xeni-travel-guides/phase-2/) |
+| Phase 2 | Platform & Infrastructure (B2B) | 15 | [README](phase-2/README.md) | [open](https://lasthumancoder.github.io/xeni-travel-guides/phase-2/) |
 | Phase 3 | States I + Tools | 15 | [README](phase-3/README.md) | [open](https://lasthumancoder.github.io/xeni-travel-guides/phase-3/) |
 | Phase 4 | States II | 15 | [README](phase-4/README.md) | [open](https://lasthumancoder.github.io/xeni-travel-guides/phase-4/) |
 
